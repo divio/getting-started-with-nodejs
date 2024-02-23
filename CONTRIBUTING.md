@@ -6,8 +6,8 @@ Thank you for contributing! We appreciate your involvement in making this projec
 
 Proposals can be submitted through:
 
-- [Pull Requests](https://github.com/divio/getting-started-with-django/pulls)
-- [Issues](https://github.com/divio/getting-started-with-django/issues)
+- [Pull Requests](https://github.com/divio/getting-started-with-nodejs/pulls)
+- [Issues](https://github.com/divio/getting-started-with-nodejs/issues)
 
 ## Pull Requests and Branches
 
